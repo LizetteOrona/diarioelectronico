@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://68.104.193.75:5432/testdb
+    username: App
+    password: 1234
+  jpa:
+    generate-ddl: true
